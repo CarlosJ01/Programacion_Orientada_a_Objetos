@@ -1,0 +1,28 @@
+¸Numero de Control: 17120980			Nombre: Daniel Orozco
+
+			CALIFICACIONES
+
+Clave			Nombre de Materia		Calificacion
+
+P1385		Fundamentos de Investigacion    		81
+T6133		Calculo Integral                		88
+T2817		Taller de Etica                 		100
+
+Promedio: 89.6
+
+---------------------------------------------------------------------------
+
+Numero de Control: 17120116			Nombre: Chucho Reyes
+
+			CALIFICACIONES
+
+Clave			Nombre de Materia		Calificacion
+
+E3417		Probabilidad y Estadistica      		91
+T6133		Calculo Integral                		82
+T6133		Calculo Integral                		74
+
+Promedio: 82.3
+
+---------------------------------------------------------------------------
+

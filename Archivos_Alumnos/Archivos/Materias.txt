@@ -1,0 +1,16 @@
+B8256 Fundamentos de Programacion
+W2749 Calculo Diferencial
+T2817 Taller de Etica
+X3797 Matematicas Discretas
+W8366 Taller de Administracion
+P1385 Fundamentos de Investigacion
+T6133 Calculo Integral
+Q2084 Programacion Orientada a Objetos
+I7989 Contabilidad Financiera
+M1927 Quimica
+F9166 Algebra Lineal
+E3417 Probabilidad y Estadistica
+P3990 Calculo Vectorial
+J7980 Estructura de Datos
+Q5856 Fisica General
+Z2809 Musica
